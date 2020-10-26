@@ -1,6 +1,6 @@
 ## Angular10 NodeJs Docker DeployingCloudRun template
 
-This is a simple template application.
+This is a simple Angular10 NodeJs template application.
 
 ## What's included
  - Frontend: simple Angular10 application
